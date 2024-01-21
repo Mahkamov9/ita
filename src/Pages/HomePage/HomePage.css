@@ -1,0 +1,8 @@
+.ddd{
+    width: 500px;
+}
+
+.carusel_box{
+    display: flex;
+    justify-content: space-between;
+}

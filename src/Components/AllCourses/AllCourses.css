@@ -1,0 +1,13 @@
+.allcourses{
+    margin-top: 50px;
+}
+.course_card_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.couse_card{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+}
