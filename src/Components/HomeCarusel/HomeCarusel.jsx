@@ -32,8 +32,8 @@ function HomeCarousel() {
        {data.map((slide, i) => {
         return (
           <Carousel.Item className="text-center ">
-              <div className="asd">
-                <b className="asd">Lorem, ipsum dolor.</b>
+              <div className="carusel_text">
+                <b className="carusel_text">Lorem, ipsum dolor.</b>
                 <p>Lorem, ipsum.</p>
                 <i>Lorem ipsum dolor sit.</i>
               </div>
